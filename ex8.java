@@ -10,7 +10,7 @@ public class ex8 {
     }
 
     public static void main(String[] args) {
-        String s1 = "Hello";
+        String s1 = "Baku";
         System.out.println(explode(s1));
     }
 }
